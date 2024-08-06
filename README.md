@@ -12,7 +12,7 @@ Time Display: Show creation time, estimated time to complete, and completion tim
 Real-time Updates: Real-time updates to the UI upon task changes.
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/todo_list_app.git
+git clone https://github.com/ajutheman/To-Do-List-Application
 cd todo_list_app
 Install dependencies:
 flutter pub get
@@ -85,5 +85,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 If you have any questions or suggestions, please contact:
 
-Your Name - your.email@example.com
-GitHub: yourusername
+Your Name - https://github.com/ajutheman/To-Do-List-Application
+GitHub: ajutheman
