@@ -19,27 +19,49 @@ flutter pub get
 Run the app:
 flutter run
 Project Structure
+
 lib/
+
 ├── data/
+
 │   ├── models/
+
 │   │   └── task_model.dart
+
 │   ├── repositories/
+
 │   │   └── task_repository_impl.dart
+
 ├── domain/
+
 │   ├── entities/
+
 │   │   └── task_entity.dart
+
 │   ├── repositories/
+
 │   │   └── task_repository.dart
+
 ├── presentation/
+
 │   ├── bloc/
+
 │   │   ├── task_bloc.dart
+
 │   │   ├── task_event.dart
+
 │   │   └── task_state.dart
+
 │   ├── pages/
+
 │   │   └── task_list.dart
+
 │   └── widgets/
+
 │       ├── add_task_dialog.dart
+
 │       └── duration_picker_dialog.dart
+
 ├── main.dart
 
 
